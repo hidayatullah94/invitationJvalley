@@ -1,0 +1,24 @@
+{
+	"name": "invitation",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "http-server ./public --port 5000 -c-1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hidayatullah94/invitationJvalley.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/hidayatullah94/invitationJvalley/issues"
+	},
+	"homepage": "https://github.com/hidayatullah94/invitationJvalley#readme",
+	"dependencies": {
+		"http-server": "^14.1.1"
+	}
+}
